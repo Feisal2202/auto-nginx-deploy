@@ -7,9 +7,9 @@ cara penggunaan
 2. salin link yang akan di auto clone 
 3. jalankan script yang akan digunakan 
 
-# 1. Auto Clone dari Github
+## Auto Clone dari Github
 Jadi dari script yang kita run itu tinggal memasukan domain dan link github
-# 2. Tanpa menggunakan github
+## Tanpa menggunakan github
 Jadi yang tanpa menggunakan github tidak perlu memasukan link kita hanya perlu memasukan domain yang akan di auto konfigurasi
-# Kesimpulan
+## Kesimpulan
 Jadi auto clone deploy ini bisa memudahkan kita dalam konfigurasi 
