@@ -1,6 +1,12 @@
 # Auto Nginx Deploy
 
-Auto nginx deploy di nginx adalah untuk menginstall dan mengkonfigurasi secara otomatis 
+Auto nginx deploy di nginx adalah untuk menginstall dan mengkonfigurasi secara otomatis
+
+cara penggunaan 
+1. install aplikasi nginx di terminal dengan memasukan perintah ~$sudo apt install nginx
+2. salin link yang akan di auto clone 
+3. jalankan script yang akan digunakan 
+
 # 1. Auto Clone dari Github
 Jadi dari script yang kita run itu tinggal memasukan domain dan link github
 # 2. Tanpa menggunakan github
