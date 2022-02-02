@@ -1,4 +1,4 @@
-# Auto Nginx Deploy Auto nginx deploy di nginx adalah untuk menginstall dan mengkonfigurasi secara otomatis 
+# Auto nginx deploy di nginx adalah untuk menginstall dan mengkonfigurasi secara otomatis 
 
 ## Kebutuhan - Nginx - Git - Bash
 
