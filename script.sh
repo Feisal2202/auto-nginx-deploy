@@ -1,5 +1,6 @@
 echo "1. Dari Github"
 echo "2. Tidak Dari Github"
+echo "3. Update Dari Github"
 read -p "mau pilih yang mana ?: " OPSI
 if [ $OPSI == 1 ]
 then
@@ -55,6 +56,13 @@ then
 
     ln -s /etc/nginx/sites-available/$DOMAIN /etc/nginx/sites-enabled
     systemctl restart nginx
+elif [ $OPSI == 3 ]
+then
+	cd /var/www
+	ls
+	read -p "Tulis domain yang akan di update: " UPDATE
+	cd $UPDATE
+	git pull origin main
 else
     echo "pilihan tidak valid"
 fi
