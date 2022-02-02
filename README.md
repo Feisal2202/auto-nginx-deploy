@@ -28,5 +28,7 @@ pada terminal
 Mengkonfigurasikan nginx dedngan menggunakan repository html static yang diinputkan oleh user 
 ## Tanpa menggunakan github
 Mengkonfigurasikan nginx pada server block dengan html sederhana 
+## Update Github
+Mengupdate web static dengan mengpull versi terbaru
 ## Kesimpulan
 Jadi auto clone deploy ini bisa memudahkan kita dalam konfigurasi
